@@ -1,4 +1,4 @@
-# Flow_Control_Blocks
+# flow_control_blocks
 There are 3 type:
 Selective Statement, (if_else) .
 Iterative statement, (for loop and while loop) .
