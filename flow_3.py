@@ -94,7 +94,7 @@ j = len(s)
 for i, k in zip(s, range(j)):
     if i == ' ':
         print("' '", end ='')
-    print(i, 'position is: ', (k ,-j))
+    print(i, 'positive and negative index is:', (k ,-j))
     j -= 1
 ============================================    
 """
