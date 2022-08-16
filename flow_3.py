@@ -88,7 +88,7 @@ for i in s:
     else:
         print(' ', end='')
 ====================================
-# Que.9 print the positive and negative of each block
+# Que.9 print the positive and negative index of each block/ character
 s = 'Shital Shelar'
 j = len(s)
 for i, k in zip(s, range(j)):
